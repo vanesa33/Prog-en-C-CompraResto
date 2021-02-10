@@ -1,0 +1,12 @@
+C:\Users\Ivanesa\source\repos\CompraResto\CompraResto\bin\Debug\netcoreapp3.1\CompraResto.exe
+C:\Users\Ivanesa\source\repos\CompraResto\CompraResto\bin\Debug\netcoreapp3.1\CompraResto.deps.json
+C:\Users\Ivanesa\source\repos\CompraResto\CompraResto\bin\Debug\netcoreapp3.1\CompraResto.runtimeconfig.json
+C:\Users\Ivanesa\source\repos\CompraResto\CompraResto\bin\Debug\netcoreapp3.1\CompraResto.runtimeconfig.dev.json
+C:\Users\Ivanesa\source\repos\CompraResto\CompraResto\bin\Debug\netcoreapp3.1\CompraResto.dll
+C:\Users\Ivanesa\source\repos\CompraResto\CompraResto\bin\Debug\netcoreapp3.1\CompraResto.pdb
+C:\Users\Ivanesa\source\repos\CompraResto\CompraResto\obj\Debug\netcoreapp3.1\CompraResto.AssemblyInfoInputs.cache
+C:\Users\Ivanesa\source\repos\CompraResto\CompraResto\obj\Debug\netcoreapp3.1\CompraResto.AssemblyInfo.cs
+C:\Users\Ivanesa\source\repos\CompraResto\CompraResto\obj\Debug\netcoreapp3.1\CompraResto.csproj.CoreCompileInputs.cache
+C:\Users\Ivanesa\source\repos\CompraResto\CompraResto\obj\Debug\netcoreapp3.1\CompraResto.dll
+C:\Users\Ivanesa\source\repos\CompraResto\CompraResto\obj\Debug\netcoreapp3.1\CompraResto.pdb
+C:\Users\Ivanesa\source\repos\CompraResto\CompraResto\obj\Debug\netcoreapp3.1\CompraResto.genruntimeconfig.cache
